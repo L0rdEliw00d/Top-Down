@@ -44,10 +44,10 @@ TagManager:
   - name: Ground
     uniqueID: 565825539
     locked: 0
-  - name: Player
+  - name: Objects
     uniqueID: 1177239833
     locked: 0
-  - name: Objects
+  - name: Player
     uniqueID: 633983745
     locked: 0
   - name: OverHang
