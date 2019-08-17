@@ -64,6 +64,7 @@
     <Compile Include="Assets\Scripts\LoadNewArea.cs" />
     <Compile Include="Assets\Scripts\Player_Movement.cs" />
     <Compile Include="Assets\Scripts\PlayerStartPoint.cs" />
+    <Compile Include="Assets\Scripts\Weapon.cs" />
     <Compile Include="Assets\Scripts\ZombieControl.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/mrmin/Documents/GitHub/Top-Down/Top Down/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
