@@ -9,6 +9,8 @@ public class Player_Movement : MonoBehaviour
     private Rigidbody2D myRigidbody;
 
     private static bool playerExists;
+
+    public string startPoint;
     
 
     // Start is called before the first frame update
